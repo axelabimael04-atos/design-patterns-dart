@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'concrete_strategy_A.dart';
-import 'concrete_strategy_B.dart';
-import 'context.dart';
+import 'strategy/concrete_strategy_A.dart';
+import 'strategy/concrete_strategy_B.dart';
+import 'context/context.dart';
 
 main() {
   var context = new Context();

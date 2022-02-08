@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'strategy.dart';
+import '../strategy/strategy.dart';
 
 class Context {
   late IStrategy _strategy;
